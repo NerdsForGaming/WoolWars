@@ -3,11 +3,15 @@
 
 I would recomend you use Multiverse Core and PlaceholderAPI alongside with this plugin, It will still run without them though.
 
-## Update : 1.0.0
+## 1. Update : 1.0.0
 Initial Release.
 
-## Update : 1.0.1
+## 2. Update : 1.0.1
 API Changes.
 
-## Update : 1.0.2
+## 3. Update : 1.0.2
 Suspected to be the arena system update.
+
+
+
+*You're early, I am still downloading BuildTools.*
