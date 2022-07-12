@@ -3,6 +3,10 @@
 
 I would recomend you use Multiverse Core and PlaceholderAPI alongside with this plugin, It will still run without them though.
 
+## DOWNLOAD ##
+[Link](https://github.com/NerdsForGaming/WoolWars/releases/tag/1.0.1)
+
+
 ## 1. Update : 1.0.0
 Initial Release.
 
