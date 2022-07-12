@@ -10,7 +10,11 @@ Initial Release.
 API Changes.
 
 ## 3. Update : 1.0.2
-Suspected to be the arena system update.
+Added /woolwars setlobby command
+New interactive arena setup system (/woolwars setup)
+Various bugs fixes
+Added 3 new team colors (DARK_AQUA, ORANGE, PURPLE)
+Changed a little the arena file structure: [Example File](https://pastebin.com/U8FmEh4U)
 
 
 
