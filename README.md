@@ -16,9 +16,8 @@ Various bugs fixes
 Added 3 new team colors (DARK_AQUA, ORANGE, PURPLE)
 Changed a little the arena file structure: [Example File](https://pastebin.com/U8FmEh4U)
 
-*1.0.2 will be available in a few days as the [author hasn't](https://cdn.discordapp.com/attachments/939879733032783942/996362744582377492/unknown.png) updated the github
+*1.0.2 will be available in a few days as the [author hasn't](https://cdn.discordapp.com/attachments/939879733032783942/996362744582377492/unknown.png) updated the github*
 
 
 
-*You're early, I am still downloading BuildTools.*
 
