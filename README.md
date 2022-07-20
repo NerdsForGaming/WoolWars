@@ -4,7 +4,7 @@
 I would recomend you use Multiverse Core and PlaceholderAPI alongside with this plugin, It will still run without them though.
 
 ## DOWNLOAD ##
-[Link](https://github.com/NerdsForGaming/WoolWars/releases/tag/1.0.1)
+[Link](https://github.com/NerdsForGaming/WoolWars/releases/tag/1.0.2)
 
 
 ## 1. Update : 1.0.0
@@ -20,7 +20,6 @@ Various bugs fixes
 Added 3 new team colors (DARK_AQUA, ORANGE, PURPLE)
 Changed a little the arena file structure: [Example File](https://pastebin.com/U8FmEh4U)
 
-*1.0.2 will be available in a few days as the [author hasn't](https://cdn.discordapp.com/attachments/939879733032783942/996362744582377492/unknown.png) updated the github*
 
 
 
